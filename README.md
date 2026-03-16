@@ -1,4 +1,4 @@
-cat > README.md <<'EOF'
+
 # Joomla Final Project – DevOps
 
 ## 📘 Overview
@@ -34,7 +34,7 @@ git, chmod, curl, docker, nano, vim, grep, sudo, etc.
 
 🧪 How to Use
 Clone the repository:
-git clone https://github.com/yair-koren/joomla-final-devops.git
+git clone https://github.com/afikeshel/joomla-server-deployment-automation.git
 cd joomla-final-devops
 
 Run the setup (optional):
